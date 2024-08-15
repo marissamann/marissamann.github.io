@@ -1,0 +1,1 @@
+Uses Express and Node.js to display a simple form and allows the user to submit input.
