@@ -31,6 +31,11 @@ I completed this project within a group of three.
 A link to that code's folder in the repo.
 	https://github.com/marissamann/BankingApp.git
 
+----------------
+ConnectToExpress
+----------------
+Verify connection from Express to Browser.
+
 ----------
 FourInARow
 ----------
